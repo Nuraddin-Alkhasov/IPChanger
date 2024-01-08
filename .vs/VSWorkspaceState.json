@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IPChanger",
+    "\\IPChanger\\IPChanger",
+    "\\IPChanger\\packages"
   ],
-  "SelectedNode": "\\IPChanger.sln",
   "PreviewInSolutionExplorer": false
 }
